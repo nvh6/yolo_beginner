@@ -62,7 +62,7 @@ boxes = []
 conf_threshold = 0.5
 nms_threshold = 0.4
 
-# Thực hiện xác định bằng HOG và SVM
+# 
 start = time.time()
 
 for out in outs:
